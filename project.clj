@@ -6,6 +6,7 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [http-kit "2.3.0"]
                  [clj-time "0.15.0"]
+                 [hiccup "1.0.5"]
                  [compojure "1.6.1"]]
   :main ^:skip-aot trying.core
   :target-path "target/%s"
